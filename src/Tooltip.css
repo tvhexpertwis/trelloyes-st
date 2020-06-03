@@ -1,0 +1,25 @@
+.Tooltip {
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Tooltip-content {
+    display: flex;
+}
+
+.Tooltip-date {
+    color: whitesmoke;
+}
+
+.Tooltip-username {
+    color: whitesmoke;
+}
+
+.Tooltip-message {
+    color: whitesmoke;
+}
+
+.margin-right {
+    margin-right: 5px;
+}
